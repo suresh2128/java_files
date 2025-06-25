@@ -25,3 +25,5 @@ public class Area_of_the_triangle {
         s.close();
     }
 }
+
+

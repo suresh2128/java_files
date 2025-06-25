@@ -42,3 +42,11 @@ public class Even_odd_Using_Arraylist {
         s.close();
     }
 }
+
+
+// git commands
+
+
+// git add .
+// git commit -m
+// git push origin master
